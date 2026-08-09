@@ -181,6 +181,14 @@ PALETTE = {
     # --- the title --------------------------------------------------------
     "Title Red":        ("#ac0300", 0.55, 0.0),
     "Title Edge":       ("#1a1210", 0.70, 0.0),
+
+    # --- the BOTR cube (06_landmarks) -------------------------------------
+    # Matte painted panel, not Glass Dark: at 0.08 roughness the sky comes
+    # back as a gloss stripe across the wordmark. The white is the same
+    # family as Roof Bright; the red is the dot and nothing else.
+    "BOTR Wall":        ("#211f20", 0.85, 0.0),
+    "BOTR Ink":         ("#f2efe8", 0.50, 0.0),
+    "BOTR Red":         ("#d63426", 0.50, 0.0),
 }
 
 
